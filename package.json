@@ -1,0 +1,24 @@
+{
+  "name": "sep-2022-react123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^4.9.5",
+    "axios": "0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemchyshynV/sep-2022-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemchyshynV/sep-2022-react/issues"
+  },
+  "homepage": "https://github.com/DemchyshynV/sep-2022-react#readme"
+}
